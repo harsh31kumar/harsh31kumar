@@ -1,11 +1,10 @@
 <!-- README.md for Harsh Kumar -->
 
 <p align="center">
-  <img src="/mnt/data/27b517e2-cb9d-4359-bf02-16c820198aab.png" alt="Harsh Kumar" width="160" style="border-radius:50%;" />
   <h1 align="center">Harsh Kumar</h1>
   <p align="center">Full Stack Developer • Cybersecurity Enthusiast • CSE @ ITER, SOA</p>
   <p align="center">
-    <a href="mailto:harshanshu@gmail.com">📧 harshanshu@gmail.com</a> ·
+    <a href="mailto:harshkrpvt31@gmail.com">📧 harshanshu@gmail.com</a> ·
     <a href="https://www.linkedin.com">LinkedIn</a> ·
     <a href="https://github.com/harsh31kumar">GitHub</a>
   </p>
@@ -57,10 +56,6 @@ Hi 👋 I'm **Harsh Kumar** — a Full Stack Developer and Cybersecurity enthusi
 
 ## 🏅 Certifications
 - **EY Cybersecurity Certification**  
-- **Python Complete Course – Udemy**  
-- **Data Science – Infosys Springboard**  
-- **App Development – Bharat Intern**  
-- **Indian Oil Sustainathon Participant**  
 
 ---
 
@@ -79,9 +74,9 @@ Hi 👋 I'm **Harsh Kumar** — a Full Stack Developer and Cybersecurity enthusi
 ---
 
 ## 📫 Contact
-- 📧 Email: harshanshu@gmail.com  
+- 📧 Email: harshkrpvt31@gmail.com  
 - 🔗 LinkedIn: *https://www.linkedin.com/in/harsh31kumar/*  
-- 🌐 Portfolio: *Add if you have one*  
+ 
 
 ---
 
