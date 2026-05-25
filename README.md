@@ -4,7 +4,7 @@
   <h1 align="center">Harsh Kumar</h1>
   <p align="center">Full Stack Developer • Cybersecurity Enthusiast • CSE @ ITER, SOA</p>
   <p align="center">
-    <a href="mailto:harshkrpvt31@gmail.com">📧 harshanshu@gmail.com</a> ·
+    <a href="mailto:harshkrpvt31@gmail.com">📧 harshkrpvt31@gmail.com</a> ·
     <a href="https://www.linkedin.com">LinkedIn</a> ·
     <a href="https://github.com/harsh31kumar">GitHub</a>
   </p>
